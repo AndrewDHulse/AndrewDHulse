@@ -1,9 +1,9 @@
-#Andrew Hulse
+# Andrew Hulse
 
-##About me
+## About me
 Hi, I'm Andrew. I am studying software engineering at General Assembly, pivoting from a career in construction. I discovered a passion for coding after my car broke down and I could not get to work for 2 weeks; I filled my new free time teaching myself coding, and haven't stopped learning since. I can see artfulness in programming, as I also have a passion for poetry and music. 
 
-##Skills
+## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
 Currently, I am most experienced in HTML, CSS, and Javascript. I look forward to learning new ways of implimenting the technologies to create aesthetically pleasing and intuitive pages.
