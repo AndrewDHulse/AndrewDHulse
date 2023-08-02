@@ -8,8 +8,6 @@ Hi, I'm Andrew. I am studying software engineering at General Assembly, pivoting
 I am love wqith coding. I look forward to learning new ways of implimenting the technologies to create aesthetically pleasing and intuitive pages.
 
 
-
-## Stats
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDHulse&layout=compact)
 
