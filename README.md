@@ -8,9 +8,18 @@ Hi, I'm Andrew. I am studying software engineering at General Assembly, pivoting
 I am love wqith coding. I look forward to learning new ways of implimenting the technologies to create aesthetically pleasing and intuitive pages.
 
 ## Skills
+[![(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]
+[!(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+
+
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewDHulse&layout=compact)]
 
 [![stats](https://github-readme-stats.vercel.app/api?username=AndrewDHulse&theme=blue-green)]
+
+[!(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
+
+[!(https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
 
 <!--
 **AndrewDHulse/AndrewDHulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
