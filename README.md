@@ -5,7 +5,7 @@ Hi, I'm Andrew. I am studying software engineering at General Assembly, pivoting
 
 
 
-I am love wqith coding. I look forward to learning new ways of implimenting the technologies to create aesthetically pleasing and intuitive pages.
+I am love with coding. I look forward to learning new ways of implimenting the technologies to create aesthetically pleasing and intuitive pages.
 
 
 ## Top Languages
